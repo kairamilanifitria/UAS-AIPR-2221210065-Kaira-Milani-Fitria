@@ -1,0 +1,3 @@
+dataset : https://www.cs.toronto.edu/~kriz/cifar.html 
+
+note : When running the notebook, there is no need to download the dataset separately, because the notebook already contains the command code to download the dataset.
